@@ -4,10 +4,8 @@ import java.util.Scanner;
     public static void main(String[] args) {
 
         Scanner input =new Scanner (System.in);
-        Scanner input2 =new Scanner (System.in);
+       
         
-        
-    
     System.out.print("Enter the year: "); int year= 
     input2.nextInt();
     System.out.print("Enter the genre: ");
